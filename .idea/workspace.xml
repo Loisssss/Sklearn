@@ -21,8 +21,8 @@
       <file leaf-file-name="Sklearn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../SklearnProject/Sklearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            <state relative-caret-position="126">
+              <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="10" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -62,8 +62,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="700" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="700" />
     <option name="height" value="810" />
@@ -178,7 +177,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="25" width="700" height="810" extended-state="4" />
+    <frame x="0" y="25" width="1400" height="810" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49847096" weight="0.32874617" />
@@ -188,7 +187,7 @@
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="3" weight="0.32874617" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32874617" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49872774" visible="true" weight="0.17125382" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49872774" visible="true" weight="0.08271787" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32874617" />
@@ -239,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../SklearnProject/Sklearn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="126">
+          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
