@@ -129,4 +129,4 @@ classifier.fit(X_iris,y_iris)
 joblib.dump(classifier, 'save/SVM_classifier.pkl')
 # restore model
 classifier2 = joblib.load('save/SVM_classifier.pkl')
-print(classifier2.predict(X_iris[:]))
+print(classifier2.predict(X_iris[0:1]))
